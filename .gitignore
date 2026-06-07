@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+api/node_modules/
+client/node_modules/
+
+api/.env
+client/.env
+
+.netlify/
+.vercel/
+dist/
+client/dist/
